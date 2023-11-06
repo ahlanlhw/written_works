@@ -4,22 +4,22 @@
 **I) Alpha Navigator (June and prior issues)**
 - occasionally added details on trading ideas, macro flavour and running scripts to generate the screens of various crypto categories
 - co-author, consolidated data, charts via python scripts
-- https://crypto.com/research/alpha-navigator-june-2022
+- https://contenthub-static.crypto.com/wp_media/2022/07/20220706_CDC_Alpha-Navigator-1.pdf
 
 **II) Safeguarding Your Crypto Assets: An Overview of Custody Solutions for Institutions and Individuals**
 - Wrote segment on self-custody solutions, fundraising table, multi-sig wallets
 - Co-author, consolidated data and charts
-- https://crypto.com/research/safeguarding-your-crypto-assets-an-overview-of-custody-solutions-for-institutions-and-individuals
+- https://contenthub-static.crypto.com/wp_media/2022/05/20220506_cryptodotcom_1_Public_Safeguarding-Your-Crypto-Assets.pdf
 
 **III) Energy Consumption in Crypto: An Overview**
 - Wrote entire article, made charts et al. Co-author provided feedback and sanity check
 - Author, consolidated data and charts
-- https://crypto.com/research/energy-consumption-in-crypto-an-overview
+- https://contenthub-static.crypto.com/wp_media/2022/04/20220331_cryptodotcom_1_Public_Energy-consumption-in-Crypto_-an-Overview.pdf
 
 **IV) Cybernauts and Role-Players: Blockchain Gamers by Genre**
 - first monthly feature article, collated chart data
 - co-Author, consolidated data and charts
-- https://crypto.com/research/cybernauts-and-role-players-blockchain-gamers
+- https://content-hub-static.crypto.com/wp-content/uploads/2022/03/Cybernauts-and-Role-Players-Blockchain-Gamers-by-Genre-1.pdf
 
 ## Economics Research Analyst at JP Morgan Chase (2018)
 **I) Asia focus: Food inflation trends (see PDF)**
